@@ -1,0 +1,16 @@
+{
+  "name": "sdfsd",
+  "theme": "syntax",
+  "version": "0.4.4",
+  "description": "แจกเครดิตฟรี 100 ไม่ต้องฝาก ไม่ต้องแชร์ ล่าสุด 2022 ใหม่",
+  "keywords": [
+    "แจกเครดิตฟรี 100 ",
+    "เครดิตฟรี 100",
+    "แจกเครดิตฟรี 100 ไม่ต้องฝาก ไม่ต้องแชร์"
+  ],
+  "repository": "https://github.com/pgslotwallet168/kjdfk",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
